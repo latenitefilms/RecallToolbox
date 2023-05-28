@@ -10,7 +10,7 @@ Recall Toolbox is a **Final Cut Pro Workflow Extension** that acts as a Shared P
 
 **Anything that you can copy and paste in Final Cut Pro, Recall Toolbox can store.**
 
-![Recall Toolbox Workflow Extension](/static/frontpage.jpeg)
+![Recall Toolbox Workflow Extension](/static/frontpage.png)
 
 ---
 
