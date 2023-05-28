@@ -12,6 +12,6 @@ This is generally $29.99 in your local currency (i.e. AUD29.99, USD29.99, CAD29.
 
 However, if your country doesn't have an equivalent of $29.99, it will default to a USD$29.99 equivalent.
 
-> **_[You can open on the App Store here.](https://apps.apple.com/us/app/recall-toolbox/id6449526499)_**
+> **_[You can open on the App Store here.](https://apps.apple.com/us/app/recall-toolbox/id6448816971)_**
 
 You can find information about Educational Pricing [here](https://recalltoolbox.io/educational/).
