@@ -1,3 +1,3 @@
 # How To Use
 
-Under Construction.
+This page will be updated as we get closer to a public release of the application. Stay tuned!
