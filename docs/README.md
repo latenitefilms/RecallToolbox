@@ -16,11 +16,13 @@ Recall Toolbox is a **Final Cut Pro Workflow Extension** that acts as a Shared P
 
 ### Build for Final Cut Pro
 
-There are also other third party tools like the amazing [Copy 'Em ​(for Mac)](https://apprywhere.com/ce-mac.html), but again, it's not quite as visual, and it's not built from the ground up for Final Cut Pro users.
+There are third party tools like the amazing [Copy 'Em ​(for Mac)](https://apprywhere.com/ce-mac.html), but they're not quite as visual as Recall Toolbox, and they're not built from the ground up for Final Cut Pro users.
 
 Recall Toolbox works as a Final Cut Pro Workflow Extension, so it's window position gets saved with your custom Workspaces.
 
 Whilst [CommandPost](https://commandpost.io) has had a Shared Pasteboard & Pasteboard Buffers for years, it's really optimised for Control Surfaces. You can access the Shared Pasteboard from the menubar, and it is super powerful, but it's not as visual, as a nice Pasteboard Browser.
+
+Better yet, Recall Toolbox can still work alongside both CommandPost and Copy 'Em (for Mac), so you get the best of all worlds!
 
 ---
 
