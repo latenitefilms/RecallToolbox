@@ -20,9 +20,9 @@ There are third party tools like the amazing [Copy 'Em ​(for Mac)](https://app
 
 Recall Toolbox works as a Final Cut Pro Workflow Extension, so it's window position gets saved with your custom Workspaces.
 
-Whilst [CommandPost](https://commandpost.io) has had a Shared Pasteboard & Pasteboard Buffers for years, it's really optimised for Control Surfaces. You can access the Shared Pasteboard from the menubar, and it is super powerful, but it's not as visual, as a nice Pasteboard Browser.
+Whilst [CommandPost](https://commandpost.io) has had a Shared Pasteboard & Pasteboard Buffers for years, it's really optimised for Control Surfaces. You can access the Shared Pasteboard from the CommandPost menubar, and it is super powerful, but it's not as visual - you just get text, not a fully customisable thumbnail.
 
-Better yet, Recall Toolbox can still work alongside both CommandPost and Copy 'Em (for Mac), so you get the best of all worlds!
+Recall Toolbox feels like a natural extension to Final Cut Pro, with a similar look and feel to Final Cut Pro's Effects Browser.
 
 ---
 
