@@ -1,9 +1,9 @@
 # Recall Toolbox
 
 !!!
-**NOTE:** Recall Toolbox has **not yet** been released on the Mac App Store.
+**NOTE:** Recall Toolbox has **not yet** been released on the Mac App Store. It's a work-in-progress.
 
-However, if you want to test via TestFlight, [please get in touch](https://recalltoolbox.io/support/).
+However, if you want to test an **early beta** via TestFlight, click [here](https://testflight.apple.com/join/FQTM8nUS).
 !!!
 
 Recall Toolbox is a **Final Cut Pro Workflow Extension** that acts as a Shared Pasteboard.

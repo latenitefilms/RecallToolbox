@@ -1,9 +1,9 @@
 # Buy on Mac App Store
 
 !!!
-**NOTE:** Recall Toolbox has **not yet** been released on the Mac App Store.
+**NOTE:** Recall Toolbox has **not yet** been released on the Mac App Store. It's a work-in-progress.
 
-However, if you want to test via TestFlight, [please get in touch](https://recalltoolbox.io/support/).
+However, if you want to test an **early beta** via TestFlight, click [here](https://testflight.apple.com/join/FQTM8nUS).
 !!!
 
 > [:icon-desktop-download: **Click here to buy on the Mac App Store**](https://apps.apple.com/us/app/recall-toolbox/id6448816971)
