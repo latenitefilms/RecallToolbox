@@ -6,12 +6,12 @@
 However, if you want to test via TestFlight, [please get in touch](https://recalltoolbox.io/support/).
 !!!
 
-**Recall Toolbox** is a one-time payment of **$29.99**.
+> [:icon-desktop-download: **Click here to buy on the Mac App Store**](https://apps.apple.com/us/app/recall-toolbox/id6448816971)
 
-This is generally $29.99 **in your local currency** (i.e. AUD29.99, USD29.99, CAD29.99).
+**Recall Toolbox** is a one-time payment of **29.99**.
 
-However, if your country doesn't have an equivalent of $29.99 (i.e. ₩44,000), it will default to a USD$29.99 equivalent.
+This is generally **29.99** in your local currency (i.e. **AUD29.99**, **USD29.99**, **CAD29.99**).
 
-> **_[You can open on the App Store here.](https://apps.apple.com/us/app/recall-toolbox/id6448816971)_**
+However, if your country doesn't have an equivalent of 29.99 (i.e. Rp499,000 in Indonesia), it will default to a **USD$29.99 equivalent**.
 
 You can find information about Educational Pricing [here](https://recalltoolbox.io/educational/).
