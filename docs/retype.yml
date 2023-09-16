@@ -11,9 +11,8 @@ branding:
 links:
 
 - text: Buy on Mac App Store
-  link: https://apps.apple.com/us/app/recall-toolbox/id6448816971
+  link: /buy/
   icon: desktop-download
-  target: blank
 
 - text: Issues
   link: https://github.com/latenitefilms/recalltoolbox/issues
