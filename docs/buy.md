@@ -1,14 +1,12 @@
 # Buy on Mac App Store
 
 !!!
-**NOTE:** Recall Toolbox has **not yet** been released on the Mac App Store.
+**Recall Toolbox** is currently waiting for approval on the Mac App Store.
 
-However, if you want to test an **early beta** via TestFlight, click [here](https://testflight.apple.com/join/FQTM8nUS).
-
-It's currently a work-in-progress, and things may change considerably prior to public release.
+In the meantime, you can access via TestFlight [here](https://testflight.apple.com/join/FQTM8nUS).
 !!!
 
-> [:icon-desktop-download: **One day you'll be able to buy here on the Mac App Store**](https://apps.apple.com/us/app/recall-toolbox/id6448816971)
+> [:icon-desktop-download: **Buy on the Mac App Store**](https://apps.apple.com/us/app/recall-toolbox/id6448816971)
 
 **Recall Toolbox** is a one-time payment of **29.99**.
 

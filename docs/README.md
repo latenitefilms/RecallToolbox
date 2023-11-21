@@ -1,16 +1,16 @@
 # Recall Toolbox
 
 !!!
-**NOTE:** Recall Toolbox has **not yet** been released on the Mac App Store. It's a work-in-progress.
+**Recall Toolbox** is currently waiting for approval on the Mac App Store.
 
-However, if you want to test an **early beta** via TestFlight, click [here](https://testflight.apple.com/join/FQTM8nUS).
-
-It's currently a work-in-progress, and things may change considerably prior to public release.
+In the meantime, you can access via TestFlight [here](https://testflight.apple.com/join/FQTM8nUS).
 !!!
 
 Recall Toolbox is a **Final Cut Pro Workflow Extension** that acts as a Shared Pasteboard.
 
 **Anything that you can copy and paste in Final Cut Pro, Recall Toolbox can store.**
+
+You can even drag-and-drop clips and projects from the Final Cut Pro Browser, and link to files (such as logos on a shared drive).
 
 > [:icon-desktop-download: **Click here to buy on the Mac App Store**](/buy/)
 
@@ -32,14 +32,12 @@ Recall Toolbox feels like a natural extension to Final Cut Pro, with a similar l
 
 ### iCloud Sync
 
-Recall Toolbox automatically syncs to ALL your devices on the same iCloud account automagically!
+Recall Toolbox automagically syncs to ALL your devices on the same iCloud account!
 
 ---
 
 ### iCloud Sharing
 
 You can share folders with other iCloud users, and control permissions. For example, you could have a "read only" folder that contains client logos for a current job!
-
-> [:icon-desktop-download: **Click here to buy on the Mac App Store**](https://apps.apple.com/us/app/recall-toolbox/id6449526499)
 
 You can learn how to use [here](https://recalltoolbox.io/how-to-use/).

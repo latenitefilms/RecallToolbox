@@ -12,14 +12,6 @@ You can learn more at [commandpost.io](https://commandpost.io)
 
 ---
 
-### Transfer Toolbox
-
-**Transfer Toolbox** allows you to convert Final Cut Pro (for Mac) libraries into Final Cut Pro (for iPad) projects.
-
-You can learn more at [transfertoolbox.io](https://transfertoolbox.io)
-
----
-
 ### BRAW Toolbox
 
 **BRAW Toolbox** allows you to import Blackmagic RAW files directly into Final Cut Pro without transcoding.
