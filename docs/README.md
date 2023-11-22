@@ -1,11 +1,5 @@
 # Recall Toolbox
 
-!!!
-**Recall Toolbox** is currently waiting for approval on the Mac App Store.
-
-In the meantime, you can access via TestFlight [here](https://testflight.apple.com/join/FQTM8nUS).
-!!!
-
 Recall Toolbox is a **Final Cut Pro Workflow Extension** that acts as a Shared Pasteboard.
 
 **Anything that you can copy and paste in Final Cut Pro, Recall Toolbox can store.**
