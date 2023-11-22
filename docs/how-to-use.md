@@ -70,7 +70,7 @@ You can rename Folders by right-clicking on the Folder and selecting **Rename**.
 
 Once you have created a **Folder**, you can now populate it with **Items**.
 
-The easiest way to create an item is to copy something in Final Cut Pro (for example, a Title in your project/timeline), then with a Folder selected, press the *New Item** button:
+The easiest way to create an item is to copy something in Final Cut Pro (for example, a Title in your project/timeline), then with a Folder selected, press the **New Item** button:
 
 ![](/static/new-item.png)
 
