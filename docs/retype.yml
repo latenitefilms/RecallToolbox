@@ -1,11 +1,10 @@
 input: .
 output: .retype
 
-url: recalltoolbox.io # Add your website address here
+url: recalltoolbox.io
 
 branding:
   title: Recall Toolbox
-  #label: Docs
   logo: static/logo.png
 
 links:
@@ -24,18 +23,18 @@ links:
   icon: comment-discussion
   target: blank
 
+- text: Discord
+  link: https://ltnt.tv/discord
+  icon: comment-discussion
+  target: blank
+
 - text: FCP Cafe
   link: https://fcp.cafe
   icon: git-branch
   target: blank
 
-- text: Chris on Twitter
-  link: https://twitter.com/chrisatlatenite
-  icon: people
-  target: blank
-
 - text: LateNite
-  link: https://latenitefilms.com
+  link: https://fcp.cafe/latenite/
   icon: light-bulb
   target: blank
 
