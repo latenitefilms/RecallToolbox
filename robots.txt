@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://recalltoolbox.io/sitemap.xml.gz
+Sitemap: https://recalltoolbox.fcp.cafe/sitemap.xml.gz
