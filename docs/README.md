@@ -8,7 +8,7 @@ You can even drag-and-drop clips and projects from the Final Cut Pro Browser, an
 
 > [:icon-desktop-download: **Click here to buy on the Mac App Store**](/buy/)
 
-![Recall Toolbox Workflow Extension](/static/frontpage.png)
+![](/static/recall-toolbox-v1-1-1.png)
 
 ---
 
@@ -18,7 +18,7 @@ There are third party tools like the amazing [Copy 'Em ​(for Mac)](https://app
 
 Recall Toolbox works as a Final Cut Pro Workflow Extension, so it's window position gets saved with your custom Workspaces.
 
-Whilst [CommandPost](https://commandpost.io) has had a Shared Pasteboard & Pasteboard Buffers for years, it's really optimised for Control Surfaces. You can access the Shared Pasteboard from the CommandPost menubar, and it is super powerful, but it's not as visual - you just get text, not a fully customisable thumbnail.
+Whilst [CommandPost](https://commandpost.io) has had a **Shared Pasteboard** & **Pasteboard Buffers** for years, it's really optimised for Control Surfaces. You can access the Shared Pasteboard from the CommandPost menubar, and it is super powerful, but it's not as visual - you just get text, not a fully customisable thumbnail.
 
 Recall Toolbox feels like a natural extension to Final Cut Pro, with a similar look and feel to Final Cut Pro's Effects Browser.
 
@@ -27,6 +27,8 @@ Recall Toolbox feels like a natural extension to Final Cut Pro, with a similar l
 ### iCloud Sync
 
 Recall Toolbox automagically syncs to ALL your devices on the same iCloud account!
+
+![](/static/frontpage.png)
 
 ---
 

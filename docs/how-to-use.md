@@ -2,7 +2,7 @@
 
 ### Installation
 
-You can download Recall Toolbox from the Mac App Store [here](https://apps.apple.com/us/app/recall-toolbox/id6448816971).
+You can download Recall Toolbox from the [Mac App Store](https://apps.apple.com/us/app/recall-toolbox/id6448816971).
 
 When you run Recall Toolbox for the first time, it will load the Menu Bar icon:
 
@@ -28,9 +28,9 @@ The Menu Bar version of the application and the Workflow Extension version are i
 
 ### Accessibility Permission
 
-Recall Toolbox requires Accessibility Permission to trigger the Paste command in Final Cut Pro.
+Recall Toolbox requires **Accessibility Permission** to trigger the **Paste** command in Final Cut Pro.
 
-The first time you double click a saved Item in Recall Toolbox you'll be presented with this macOS alert:
+The first time you double-click a saved **Item** in Recall Toolbox you'll be presented with this macOS alert:
 
 ![](/static/accessibility-permission.png)
 
@@ -42,7 +42,29 @@ You'll then be presented with:
 
 You should click the grey toggle next to Recall Toolbox to enable Accessibility Permissions.
 
-Once enabled, Recall Toolbox will be able to trigger the Paste shortcut key in Final Cut Pro.
+Once enabled, Recall Toolbox will be able to trigger the **Paste** shortcut key in Final Cut Pro.
+
+---
+
+### Sandboxing
+
+The Menu Bar version of the application and the Workflow Extension version are independent, sandboxed versions of the same application, and also use iCloud to share information between each other.
+
+This means that if you drag a file from **Finder** to the Menu Bar version of Recall Toolbox, only the Menu Bar version has access to that file - the Workflow Extension does not.
+
+This is the same for if you're sharing a **File** between multiple machines - due to macOS sandboxing, you need to give Recall Toolbox explicit permission to access those files on each machine.
+
+When a file can't be accessed, the **File** tag background will be red:
+
+![](/static/file-offline.png)
+
+However, to solve this, in the Workflow Extension, you can use press the **Settings** icon and then **Grant Sandbox Access** to the folder or drive which contains the folder.
+
+![](/static/sandbox-access.png)
+
+There's also the option to **Reset Sandbox Access** to revoke permission to any locations you've previously granted it permission too.
+
+For example, if you're in an environment where you have multiple machines all connected to the same NAS, with a common shared folder - you should just grant all your machines sandbox access to the common shared folder.
 
 ---
 
@@ -70,7 +92,7 @@ You can rename Folders by right-clicking on the Folder and selecting **Rename**.
 
 Once you have created a **Folder**, you can now populate it with **Items**.
 
-The easiest way to create an item is to copy something in Final Cut Pro (for example, a Title in your project/timeline), then with a Folder selected, press the **New Item** button:
+The easiest way to create an **Item** is to copy something in Final Cut Pro (for example, a **Title** in your project/timeline), then with a Folder selected, press the **New Item** button:
 
 ![](/static/new-item.png)
 
@@ -78,7 +100,7 @@ If you have nothing in the Final Cut Pro Pasteboard, you'll be presented with th
 
 ![](/static/empty-pasteboard.png)
 
-Once you create a New Item:
+Once you create a **New Item**:
 
 ![](/static/create-new-item.png)
 
@@ -88,13 +110,13 @@ You'll be presented with a confirmation alert:
 
 Anything that can be copied in Final Cut Pro, can be saved in Recall Toolbox.
 
-You can also drag-and-drop items from the Final Cut Pro Browser to Recall Toolbox, and it will save those items as FCPXML data.
+You can also drag-and-drop items from the Final Cut Pro Browser to Recall Toolbox, and it will save those items as `FCPXML` data.
 
 You can also drag-and-drop files from Finder (or other applications) to Recall Toolbox, and it will save **links** to those files - meaning it just saves the file path, not the actual file data. This can be useful if you have Shared Storage, and you want to save common assets in Recall Toolbox to be shared between multiple machines.
 
-Every item can also have it's own thumbnail. Simply drag an image from Finder (or other applications) into an Item to update the thumbnail.
+Every item can also have it's own thumbnail. Simply drag an image from Finder (or other applications) into an **Item** to update the thumbnail.
 
-You can also right-click on an Item to access the contextual menu:
+You can also right-click on an **Item** to access the contextual menu:
 
 ![](/static/item-menu.png)
 
@@ -119,23 +141,3 @@ You'll be presented with this, whist the initial sharing takes place:
 Once the Folder has been shared, you can press the **Share** button again to add the email addresses of other iCloud users you want to share the folder with:
 
 ![](/static/share-options.png)
-
----
-
-### Sandboxing
-
-The Menu Bar version of the application and the Workflow Extension version are independent, sandboxed versions of the same application, and also use iCloud to share information between each other.
-
-This means that if you drag a file from Finder to the Menu Bar version of Recall Toolbox, only the Menu Bar version has access to that file - the Workflow Extension does not.
-
-This is the same for if you're sharing a File between multiple machines - due to macOS sandboxing, you need to give Recall Toolbox explicit permission to access those files on each machine.
-
-When a file can't be accessed, the File tag background will be red:
-
-![](/static/file-offline.png)
-
-However, to solve this, in the Workflow Extension, you can use press the **Settings** icon and then **Grant Sandbox Access** to the folder or drive which contains the folder.
-
-![](/static/sandbox-access.png)
-
-There's also the option to **Reset Sandbox Access** to revoke permission to any locations you've previously granted it permission too.
